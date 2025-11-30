@@ -1,7 +1,7 @@
 ## Hello, World!
 
 <div align="left">
-  <a href="https://github.com/22kun">
+  <a href="https://github.com/artuuuuuuuuuur">
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=artuuuuuuuuuur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="21%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTB1XNd7zac9ZAJs3LHlgHbGdhVsjyohiqHQ&usqp=CAU"> 
   <img width="21%" src="https://64.media.tumblr.com/8d886acaa51047616688ccff3c120362/tumblr_pmm9k29rDT1w1zmya_500.jpg">
@@ -30,3 +30,4 @@
    <img height="50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> &nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
   </div>
+
